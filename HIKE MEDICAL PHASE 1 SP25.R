@@ -1,13 +1,13 @@
 set.seed(1)
 
-# Categories Definitions 
+# Categories definitions 
 
 job_types <- c("warehouse_worker", "nurse", "bus_driver", "retail_worker",
                "restaurant_staff", "construction_worker")
 
 shoe_types <- c("boot", "sneaker", "clog", "dress_shoe")
 
-# Score Definitions 
+# Score definitions 
 
 job_strain <- c(
   restaurant_staff = 4.5,
@@ -85,7 +85,7 @@ data <- data.frame(
 
 data$standing_ratio <- standing_ratios[data$job_type]
 
-# Fatigue Score Calculation 
+# Fatigue score calculation 
 
 data$fatigue_score <- with(data, 
  (job_strain[job_type] * 
