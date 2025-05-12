@@ -17,18 +17,23 @@ The model was built in a nonlinear formula using a weighted blend of all inputs 
 
 ## Optimizations 
 
-- Restricted random values to stay within realstic ranges (2 - 12 hours on feet)
-- Assigned realsitic shoe types per job to avoid unrealstic worker profiles in the synthetic dataset (e.g., nurses in boots, construction workers in sneakers)
+- Restricted random values to stay within realistic ranges (2 - 12 hours on feet)
+- Assigned realistic shoe types per job to avoid unrealstic worker profiles in the synthetic dataset (e.g., nurses in boots, construction workers in sneakers)
 
 ## Findings 
 
 1. Highest risk Categories
+Nurses and warehouse workers scored the highest on average fatigue, indicating consistent physical strain due to prolonged time on feet and demandig shifts.
 
 2. Fatigue risk Varies Greatly by Job Type
 
-3. Fatigue for high and impact jobs remain consistent throughout age groups
+3. Fatigue for high and low impact jobs remain consistent throughout age groups
 
-4. Variation within roles suggests individual risk factors matter
+It was found that for high impact jobs (nurses and warehouse workers) that the fatigue scored remained constantly high regardless of age, highlighting the importance of job based ergonmoic support, not just age-based interventions. 
+
+Contrary, low impact jobs (bus drivers) showed consistently low fatigue scores across all age groups, reinforcing the model's ability to distinguihs betweeen job-level and individual-level fatigue factors.
+
+5. Variation within roles suggests individual risk factors matter
 
 
 
