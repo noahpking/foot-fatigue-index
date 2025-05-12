@@ -1,10 +1,10 @@
-#### Foot Fatigue Index Model
+# Foot Fatigue Index Model
 
 This project simulates a Foot Fatigue Index that quantifies how physically fatigued a worker’s feet become based on their job, shoes, age, and weight. It was built as part of a data science challenge from Hike Medical, focused on real-world ergonomic risk modeling.
 
-### How It's Made 
+## How It's Made 
 
-## Tech Used: R, dplyr, ggplot 2
+### Tech Used: R, dplyr, ggplot 2
 
 I built model entirely in RStudio, simulating 1,000 synethethic workers profiles with varied job roles (nurses, construction workers, warehouse workers, resturaunt staff, retail workers, and bus drivers.) This model was designed to reflect real-world factors that include:
 
