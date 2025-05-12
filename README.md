@@ -6,19 +6,19 @@ This project simulates a Foot Fatigue Index that quantifies how physically fatig
 
 ### Tech Used: R, dplyr, ggplot 2
 
-I built a model entirely in RStudio, simulating 1,000 synethethic workers profiles with varied job roles (nurses, construction workers, warehouse workers, resturaunt staff, retail workers, and bus drivers) This model was designed to reflect real-world factors that include:
+I built a model entirely in RStudio, simulating 1,000 synthetic workers profiles with varied job roles (nurses, construction workers, warehouse workers, restaurant staff, retail workers, and bus drivers) This model was designed to reflect real-world factors that include:
 
-- Average hours on feet based on the person's jon
+- Average hours on feet based on the person's job
 - Typical footwear worn by each worker
 - Standing to walking ratio
 - Age and weight-based fatigue adjustments
 
-The model was built in a nonlinear formula using a weighted blend of all inputs listed above. The weight of each input was based on publicily available ergonomic and occupational health research, which are cited at the end of this file. 
+The model was built in a nonlinear formula using a weighted blend of all inputs listed above. The weight of each input was based on publicly available ergonomic and occupational health research, which are cited at the end of this file. 
 
 ## Optimizations 
 
 - Restricted random values to stay within realistic ranges (2 - 12 hours on feet)
-- Assigned realistic shoe types per job to avoid unrealstic worker profiles in the synthetic dataset (e.g., nurses in boots, construction workers in sneakers)
+- Assigned realistic shoe types per job to avoid unrealistic worker profiles in the synthetic dataset (e.g., nurses in boots, construction workers in sneakers)
 
 ## Findings 
 
@@ -32,14 +32,16 @@ These findings have shown that fatigue levels are strongly influenced by the nat
 
 3. Fatigue for High and Low Impact Jobs Remain Consistent Throughout Age Groups
   
-It was found that for high impact jobs (nurses and warehouse workers) that the fatigue score remained constantly high regardless of age or weight highlighting the importance of job based ergonmoic support, not just age-based interventions. 
+It was found that for high impact jobs (nurses and warehouse workers) that the fatigue score remained constantly high regardless of age or weight highlighting the importance of job based ergonomic support, not just age-based interventions. 
 
-On the contrary, low impact jobs (bus drivers) showed consistently low fatigue scores across all age groups, reinforcing the model's ability to distinguihs betweeen job-level and individual-level fatigue factors.
+On the contrary, low impact jobs (bus drivers) showed consistently low fatigue scores across all age groups, reinforcing the model's ability to distinguish between job-level and individual-level fatigue factors.
 
 4. The Model Accurately Captures Both Job-Level and Individual-Level Risk
 
 Fatigue scores vary across individuals within the same job type, showing that the model successfully integrates personal attributes alongside job demands—creating a more precise, realistic risk profile for each worker.
 
+
+These findings support the idea that job type is the dominant driver of fatigue risk, while age and weight serve more as modifiers than primary determinants. This highlights a key opportunity: targeting high-strain jobs like nursing and warehouse work with supportive interventions—such as high-performance insoles—could make the most difference. Since workers in these roles experience consistently high fatigue regardless of personal traits, focusing on the job itself is likely to deliver the greatest impact.
 
 
 
