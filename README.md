@@ -28,7 +28,7 @@ Nurses and warehouse workers scored the highest on average fatigue, indicating c
 2. Fatigue Risk Varies Greatly by Job Type
 These findings have shown that fatigue levels are strongly influenced by the nature of the job itself, with roles involving prolonged standing, movement, and physical labor resulting in significantly higher fatigue scores compared to more sedentary positions.
 
-4. Fatigue for High and Low Impact Jobs Remain Consistent Throughout Age Groups
+3. Fatigue for High and Low Impact Jobs Remain Consistent Throughout Age Groups
 It was found that for high impact jobs (nurses and warehouse workers) that the fatigue score remained constantly high regardless of age or weight highlighting the importance of job based ergonmoic support, not just age-based interventions. 
 
 On the contrary, low impact jobs (bus drivers) showed consistently low fatigue scores across all age groups, reinforcing the model's ability to distinguihs betweeen job-level and individual-level fatigue factors.
