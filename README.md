@@ -24,7 +24,7 @@ The model was built in a nonlinear formula using a weighted blend of all inputs 
 
 1. Highest Risk Categories
 
-Nurses and warehouse workers scored the highest on average fatigue, indicating consistent physical strain due to prolonged time on feet and demanding shifts. These findings suggest that targeted interventions should prioritize workers in high-intensity roles where fatigue risk is persistently.
+Nurses and warehouse workers scored the highest on average fatigue, indicating consistent physical strain due to prolonged time on feet and demanding shifts. These findings suggest that targeted interventions should prioritize workers in high-intensity roles where fatigue risk is persistently elevated.
 
 2. Fatigue Risk Varies Greatly by Job Type
  
@@ -40,10 +40,12 @@ On the contrary, low impact jobs (bus drivers) showed consistently low fatigue s
 
 Fatigue scores vary across individuals within the same job type, showing that the model successfully integrates personal attributes alongside job demands—creating a more precise, realistic risk profile for each worker.
 
-
 These findings support the idea that job type is the dominant driver of fatigue risk, while age and weight serve more as modifiers than primary determinants. This highlights a key opportunity: targeting high-strain jobs like nursing and warehouse work with supportive interventions—such as high-performance insoles—could make the most difference. Since workers in these roles experience consistently high fatigue regardless of personal traits, focusing on the job itself is likely to deliver the greatest impact.
 
+## Sources
 
+- NIOSH – Musculoskeletal Health Program: [https://www.cdc.gov/niosh/topics/ergonomics](https://www.cdc.gov/niosh/topics/ergonomics)  
+- NIH Study on Footwear and Comfort: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055346/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055346/)  
+- Fatigue Risk Index Methodology: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5296340/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5296340/)
 
-
-
+Thank You!
