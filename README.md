@@ -1,6 +1,6 @@
 # Foot Fatigue Index Model
 
-This project simulates a Foot Fatigue Index that quantifies how physically fatigued a worker’s feet become based on their job, shoes, age, and weight. It was built as part of a data science challenge from Hike Medical, focused on real-world ergonomic risk modeling.
+This project simulates a Foot Fatigue Index that quantifies how physically fatigued a worker’s feet become based on their job, shoes, age, and weight.
 
 ## How It's Made 
 
@@ -41,11 +41,5 @@ On the contrary, low impact jobs (bus drivers) showed consistently low fatigue s
 Fatigue scores vary across individuals within the same job type, showing that the model successfully integrates personal attributes alongside job demands—creating a more precise, realistic risk profile for each worker.
 
 These findings support the idea that job type is the dominant driver of fatigue risk, while age and weight serve more as modifiers than primary determinants. This highlights a key opportunity: targeting high-strain jobs like nursing and warehouse work with supportive interventions—such as high-performance insoles—could make the most difference. Since workers in these roles experience consistently high fatigue regardless of personal traits, focusing on the job itself is likely to deliver the greatest impact.
-
-## Sources
-
-- NIOSH – Musculoskeletal Health Program: [https://www.cdc.gov/niosh/topics/ergonomics](https://www.cdc.gov/niosh/topics/ergonomics)  
-- NIH Study on Footwear and Comfort: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055346/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055346/)  
-- Fatigue Risk Index Methodology: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5296340/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5296340/)
 
 Thank You!
